@@ -82,6 +82,38 @@ const Skills = () => {
               </div>
             </div>
           </div>
+          <div className="row justify-content-between mb-5">
+            <div className="col-md-3">
+              <div className="card" style={{ width: "18rem" }} data-aos="flip-right">
+                <div className="image">
+                  <img src="images/canva.avif" className="card-img-top" alt="..." />
+                </div>             
+                <div className="card-body">
+                  <h5 className="card-title">Canva</h5>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-3">
+              <div className="card" style={{ width: "18rem" }} data-aos="flip-right">
+              <div className="image">
+                  <img src="images/aftereffects.avif" className="card-img-top" alt="..." />
+                </div>
+                <div className="card-body">
+                  <h5 className="card-title">Adobe AfterEffects</h5>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-3">
+              <div className="card" style={{ width: "18rem" }} data-aos="flip-right">
+              <div className="image">
+                  <img src="images/blender.avif" className="card-img-top" alt="..." />
+                </div>
+                <div className="card-body">
+                  <h5 className="card-title">Blender</h5>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </>

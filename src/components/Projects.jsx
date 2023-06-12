@@ -13,7 +13,7 @@ const Projects = () => {
         <div className="container  py-2">
           <div className="row">
           <div className="col-12 text-center">
-            <h1 className='text-white mt-4'>My Figma Projects</h1>
+            <h1 className='text-white mt-4'>Ui/UX Design Projects</h1>
           </div>
           </div>
         </div>
